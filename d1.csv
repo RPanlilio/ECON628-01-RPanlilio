@@ -1054,7 +1054,7 @@ age,sex,goo,coo,doa,famsize,bro,sis,sib,po,ind,ref,rei,res,dis,gov,cit,hfd,ffd,a
 7,male,Daraa,Inkhil,2013,6,1,2,,Farmer,Agriculture,1,0,0,District 4,,,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0
 10,female,Daraa,Nawa,2013,6,3,2,,Farmer,Agriculture,1,0,0,District 4,,,1,1,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0
 11,female,Daraa,Nawa,2014,6,1,3,,Farmer,Agriculture,1,0,0,District 4,,,1,1,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0
-12,female,Daraa,Nawa,7/5/1905,6,1,2,,Farmer,Agriculture,1,0,0,District 4,,,1,1,1,0,1,0,0,1,-1,0,1,0,1,0,0,0,0,0,0,0
+12,female,Daraa,Nawa,2013,6,1,2,,Farmer,Agriculture,1,0,0,District 4,,,1,1,1,0,1,0,0,1,-1,0,1,0,1,0,0,0,0,0,0,0
 7,male,Daraa,Nawa,2013,6,4,2,,Farmer,Agriculture,1,0,0,District 4,,,1,1,1,0,1,0,0,1,0,0,1,0,0,0,1,1,1,1,0,0
 7,male,Daraa,Tafas,2012,6,0,3,,Farmer,Agriculture,1,0,0,District 4,,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 7,male,Daraa ,,2013,6,3,0,,Farmer,Agriculture,1,0,0,District 4,,,1,1,0,0,0,0,0,1,-1,0,1,1,0,0,1,0,1,0,0,
